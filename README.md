@@ -1,5 +1,6 @@
 # Social Network Simulation using C++ and Qt UI
 ### Add friends, form connections between users and manage them through an interface
+<<<<<<< HEAD
 
 File paths are currently hard-coded in.
 
@@ -12,3 +13,6 @@ Your Home page showing friends and suggestions for friends
 Navigate to other users by clicking on them and show their profiles, and add them as friends
 <img src = "/readme imgs/3.png" alt="Output" style="aspect-ratio:auto;width:300px">
 
+=======
+File paths are currently hard-coded in.
+>>>>>>> bfa989a7ff3a603cec1e1f258dceff74c5de344a
